@@ -27,4 +27,3 @@ Doge Unblocker is a lightning-fast web proxy designed for performance and stealt
 
 ### Discord
 [![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
-/npm start
